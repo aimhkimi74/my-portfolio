@@ -39,14 +39,14 @@ my-portfolio/
 
 Navigate to the project directory:
 
--Bash
--cd my-portfolio
--Open index.html: Simply double-click the index.html file to open it in your default browser.
+-Bash   
+-cd my-portfolio    
+-Open index.html: Simply double-click the index.html file to open it in your default browser.   
 
 ## 👨‍💻 Author
--Muhammad Aiman Hakimi Bin Mohd Nizam
--Role: Aspiring Software Engineer / Data Analyst
--Education: Bachelor of Computer Science (Hons.), UiTM Jasin
--Email: aimanhkimi74@gmail.com
--LinkedIn: Muhammad Aiman Hakimi
-© 2026 Muhammad Aiman Hakimi. All Rights Reserved.
+-Muhammad Aiman Hakimi Bin Mohd Nizam   
+-Role: Aspiring Software Engineer / Data Analyst    
+-Education: Bachelor of Computer Science (Hons.), UiTM Jasin    
+-Email: aimanhkimi74@gmail.com  
+-LinkedIn: Muhammad Aiman Hakimi    
+© 2026 Muhammad Aiman Hakimi. All Rights Reserved.  
