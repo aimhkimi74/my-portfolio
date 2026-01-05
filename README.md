@@ -32,13 +32,13 @@ my-portfolio/
 ```
 
 ## 🔧 How to Run Locally
-To view this project on your local machine: 
-Clone the repository:   
+To view this project on your local machine:
+
+1. Clone the repository:   
 Bash    
 git clone [https://github.com/aimhkimi74/my-portfolio.git]  
 
-Navigate to the project directory:
-
+2. Navigate to the project directory:
 Bash   
 cd my-portfolio    
 Open index.html: Simply double-click the index.html file to open it in your default browser.   
