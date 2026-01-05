@@ -29,31 +29,24 @@ my-portfolio/
 │   └── style.css
 └── js/               # JavaScript files
     └── script.js
+```
 
-🔧 How to Run Locally
-To view this project on your local machine:
+## 🔧 How to Run Locally
+*To view this project on your local machine:
+*Clone the repository:
+*Bash
+*git clone [https://github.com/aimhkimi74/my-portfolio.git]
 
-Clone the repository:
-
-Bash
-
-git clone [https://github.com/YOUR-USERNAME/my-portfolio.git]
 Navigate to the project directory:
 
-Bash
+*Bash
+*cd my-portfolio
+*Open index.html: Simply double-click the index.html file to open it in your default browser.
 
-cd my-portfolio
-Open index.html: Simply double-click the index.html file to open it in your default browser.
-
-👨‍💻 Author
-Muhammad Aiman Hakimi Bin Mohd Nizam
-
-Role: Aspiring Software Engineer / Data Analyst
-
-Education: Bachelor of Computer Science (Hons.), UiTM Jasin
-
-Email: aimanhkimi74@gmail.com
-
-LinkedIn: Muhammad Aiman Hakimi
-
+## 👨‍💻 Author
+*Muhammad Aiman Hakimi Bin Mohd Nizam
+*Role: Aspiring Software Engineer / Data Analyst
+*Education: Bachelor of Computer Science (Hons.), UiTM Jasin
+*Email: aimanhkimi74@gmail.com
+*LinkedIn: Muhammad Aiman Hakimi
 © 2026 Muhammad Aiman Hakimi. All Rights Reserved.
